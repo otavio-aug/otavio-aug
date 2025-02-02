@@ -2,8 +2,7 @@
 Desenvolvedor Fullstack com experiência em desenvolvimento web e desktop, atuando no front-end e back-end.
 
 ## 🌐 Idiomas
-Português: Nativo
-Inglês: Avançado
+Português: Nativo<br/>Inglês: Avançado
 
 ## 📫 Contato
 Email: otavioaugustocardoso@gmail.com
