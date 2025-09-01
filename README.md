@@ -1,9 +1,6 @@
 # 📌 Oi!
 Sou desenvolvedor fullstack com experiência em web e desktop, trabalhando tanto no front-end quanto no back-end. Já passei bastante tempo participando de fóruns e comunidades tech, trocando ideias e aprendendo com a galera.
 
-## 🎮 Fun Fact
-Desenvolvi algum tipo de automação para cerca de 90% dos jogos de grinding que joguei. E, muito provavelmente, alguma dessas automações tá rodando em segundo plano no meu computador agora!
-
 ## 📫 Contato
 Discord: otavio.aug<br/>
 Email: otv.augg@gmail.com
